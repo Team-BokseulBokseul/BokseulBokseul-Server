@@ -1,6 +1,4 @@
 # BokseulBokseul-Server
-
-# 22sdc-ssu-free-subject-ios
 ### **팀원**
 
 PM : 홍준혁
